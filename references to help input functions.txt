@@ -1,0 +1,12 @@
+https://careerkarma.com/blog/python-indentationerror-expected-an-indented-block/#:~:text=The%20%E2%80%9CIndentationError%3A%20expected%20an%20indented%20block%E2%80%9D%20error%20is%20raised,the%20proper%20number%20of%20indents.
+https://www.activestate.com/resources/quick-reads/how-to-apply-functions-in-pandas/
+https://stackoverflow.com/questions/35414431/how-to-define-user-defined-function-in-pandas
+https://stackoverflow.com/questions/41015805/how-to-use-functions-with-pandas-dataframe
+https://stackoverflow.com/questions/46124758/avoid-repetitive-operations-with-pandas
+https://stackoverflow.com/questions/61335399/functions-to-prevent-repetition-of-code-pandas-for-python-using-jupyter-notebo
+https://stackoverflow.com/questions/72838209/nbconvert-failed-pyppeteer-is-not-installed-to-support-web-pdf-conversion-plea
+https://www.packt.com/python-functions-avoid-repeating-code/
+https://www.codegrepper.com/code-examples/python/how+to+stop+repetition+in+python
+https://sparkbyexamples.com/pandas/pandas-apply-function-to-every-row/#:~:text=By%20using%20apply()%20you,()%20function%20use%20axis%3D1%20.
+https://automatetheboringstuff.com/chapter3/
+https://www.programiz.com/python-programming/function
